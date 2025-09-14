@@ -132,3 +132,18 @@ h2 {
 .contact button:hover {
   background: #005fcc;
 }
+
+/* Contact form feedback */
+#formStatus {
+  margin-top: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+#formStatus.success {
+  color: green;
+}
+
+#formStatus.error {
+  color: red;
+}
