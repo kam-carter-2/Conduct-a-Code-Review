@@ -1,0 +1,25 @@
+{
+  // Use Live Server on port 5500 (or any you prefer)
+  "liveServer.settings.port": 5500,
+
+  // Auto-format on save
+  "editor.formatOnSave": true,
+
+  // Default formatter for HTML, CSS, JS
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // Tab size & spacing
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+
+  // Enable word wrap in code editor
+  "editor.wordWrap": "on"
+}
